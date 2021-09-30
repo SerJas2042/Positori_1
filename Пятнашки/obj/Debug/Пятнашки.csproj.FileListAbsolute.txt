@@ -1,0 +1,10 @@
+C:\Users\СЕРЁГА\Desktop\Для Федоренко\Пятнашки\Пятнашки\bin\Debug\Пятнашки.exe.config
+C:\Users\СЕРЁГА\Desktop\Для Федоренко\Пятнашки\Пятнашки\bin\Debug\Пятнашки.exe
+C:\Users\СЕРЁГА\Desktop\Для Федоренко\Пятнашки\Пятнашки\bin\Debug\Пятнашки.pdb
+C:\Users\СЕРЁГА\Desktop\Для Федоренко\Пятнашки\Пятнашки\obj\Debug\Пятнашки.Properties.Resources.resources
+C:\Users\СЕРЁГА\Desktop\Для Федоренко\Пятнашки\Пятнашки\obj\Debug\Пятнашки.csproj.GenerateResource.cache
+C:\Users\СЕРЁГА\Desktop\Для Федоренко\Пятнашки\Пятнашки\obj\Debug\Пятнашки.csproj.CoreCompileInputs.cache
+C:\Users\СЕРЁГА\Desktop\Для Федоренко\Пятнашки\Пятнашки\obj\Debug\Пятнашки.exe
+C:\Users\СЕРЁГА\Desktop\Для Федоренко\Пятнашки\Пятнашки\obj\Debug\Пятнашки.pdb
+C:\Users\СЕРЁГА\Desktop\Для Федоренко\Пятнашки\Пятнашки\obj\Debug\Пятнашки.Form1.resources
+C:\Users\СЕРЁГА\Desktop\Для Федоренко\Пятнашки\Пятнашки\obj\Debug\Пятнашки.csprojAssemblyReference.cache
