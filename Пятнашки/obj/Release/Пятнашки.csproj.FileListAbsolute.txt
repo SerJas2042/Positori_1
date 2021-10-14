@@ -1,0 +1,9 @@
+C:\Users\303-0\source\repos\ястребов\Positori_1\Пятнашки\bin\Release\Пятнашки.exe.config
+C:\Users\303-0\source\repos\ястребов\Positori_1\Пятнашки\bin\Release\Пятнашки.exe
+C:\Users\303-0\source\repos\ястребов\Positori_1\Пятнашки\bin\Release\Пятнашки.pdb
+C:\Users\303-0\source\repos\ястребов\Positori_1\Пятнашки\obj\Release\Пятнашки.Form1.resources
+C:\Users\303-0\source\repos\ястребов\Positori_1\Пятнашки\obj\Release\Пятнашки.Properties.Resources.resources
+C:\Users\303-0\source\repos\ястребов\Positori_1\Пятнашки\obj\Release\Пятнашки.csproj.GenerateResource.cache
+C:\Users\303-0\source\repos\ястребов\Positori_1\Пятнашки\obj\Release\Пятнашки.csproj.CoreCompileInputs.cache
+C:\Users\303-0\source\repos\ястребов\Positori_1\Пятнашки\obj\Release\Пятнашки.exe
+C:\Users\303-0\source\repos\ястребов\Positori_1\Пятнашки\obj\Release\Пятнашки.pdb

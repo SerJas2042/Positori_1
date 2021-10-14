@@ -8,3 +8,13 @@ C:\Users\СЕРЁГА\Desktop\Для Федоренко\Пятнашки\Пят�
 C:\Users\СЕРЁГА\Desktop\Для Федоренко\Пятнашки\Пятнашки\obj\Debug\Пятнашки.pdb
 C:\Users\СЕРЁГА\Desktop\Для Федоренко\Пятнашки\Пятнашки\obj\Debug\Пятнашки.Form1.resources
 C:\Users\СЕРЁГА\Desktop\Для Федоренко\Пятнашки\Пятнашки\obj\Debug\Пятнашки.csprojAssemblyReference.cache
+C:\Users\303-0\source\repos\ястребов\Positori_1\Пятнашки\bin\Debug\Пятнашки.exe.config
+C:\Users\303-0\source\repos\ястребов\Positori_1\Пятнашки\bin\Debug\Пятнашки.exe
+C:\Users\303-0\source\repos\ястребов\Positori_1\Пятнашки\bin\Debug\Пятнашки.pdb
+C:\Users\303-0\source\repos\ястребов\Positori_1\Пятнашки\obj\Debug\Пятнашки.csproj.AssemblyReference.cache
+C:\Users\303-0\source\repos\ястребов\Positori_1\Пятнашки\obj\Debug\Пятнашки.Form1.resources
+C:\Users\303-0\source\repos\ястребов\Positori_1\Пятнашки\obj\Debug\Пятнашки.Properties.Resources.resources
+C:\Users\303-0\source\repos\ястребов\Positori_1\Пятнашки\obj\Debug\Пятнашки.csproj.GenerateResource.cache
+C:\Users\303-0\source\repos\ястребов\Positori_1\Пятнашки\obj\Debug\Пятнашки.csproj.CoreCompileInputs.cache
+C:\Users\303-0\source\repos\ястребов\Positori_1\Пятнашки\obj\Debug\Пятнашки.exe
+C:\Users\303-0\source\repos\ястребов\Positori_1\Пятнашки\obj\Debug\Пятнашки.pdb
